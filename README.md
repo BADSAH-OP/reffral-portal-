@@ -2,9 +2,11 @@
 
 ## 📸 Project Banners
 
-<img width="1901" height="747" alt="Mercor Referral Network Banner 1" src="https://github.com/user-attachments/assets/da027d2f-2cbf-4480-aad3-b94468ce91f6" />
+<img width="1809" height="555" alt="image" src="https://github.com/user-attachments/assets/e44721c2-a7a4-4f43-9d6d-97a2381f2ca6" />
 
-<img width="1052" height="674" alt="Mercor Referral Network Banner 2" src="https://github.com/user-attachments/assets/1d54e7ae-9554-4f6d-a55d-036370fa9e79" />
+
+<img width="855" height="550" alt="image" src="https://github.com/user-attachments/assets/ce5b0180-6dc6-451d-8aeb-a4fa1aa02fd3" />
+
 
 ---
 
@@ -128,8 +130,7 @@ AI assistants (ChatGPT) were used only for:
 **All core logic, algorithms, and implementation decisions were self-developed and fully understood by me.**
 
 
-## Repository Structure
-<img width="216" height="251" alt="image" src="https://github.com/user-attachments/assets/2c6ba8d2-bed2-4a41-b4fc-4b1b8572e5e1" />
+
 
 
 
